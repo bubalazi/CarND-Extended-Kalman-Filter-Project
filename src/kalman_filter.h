@@ -4,7 +4,6 @@
 
 class KalmanFilter {
 public:
-
   // state vector
   Eigen::VectorXd x_;
 
